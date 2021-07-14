@@ -1,0 +1,29 @@
+#gridGallery{
+    height: 50px;
+    width:50px;    
+}
+
+
+body{
+    background-color: beige;
+    text-align: center;
+}
+
+#gridImg{
+    height: 400px;
+    width: 400px;
+    border-style: dashed;
+    border-color: red;
+}
+
+#gridMainImg{
+    height: 350px;
+    width: 350px;
+}
+
+#headerText{
+    
+    font-size: 40px;
+    color: blue;
+    font-family: serif;
+}
